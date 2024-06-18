@@ -9,12 +9,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Poster Sessions
-=== 
-
-{% for post in site.posters reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
 Previous Publications
