@@ -9,4 +9,4 @@ redirect_from:
 
 I am a second year Computer Science PhD student at the [University of Massachusetts Amherst](https://www.cics.umass.edu). I am advised by [Yair Zick](https://people.cs.umass.edu/~yzick/) and my research interests include Algorithmic Fairness and Mechanism Design. 
 
-Prior to joining UMass, I received my Bachelor's and Master's degrees at the [Pontifical Catholic University of Chile](https://www.ing.uc.cl/en/), where I worked as adjunct faculty. I also worked two years at [CIGIDEN](https://www.cigiden.cl/en/) as a researcher. 
+Prior to joining UMass, I received my Bachelor's and Master's degrees at the [Pontifical Catholic University of Chile](https://www.ing.uc.cl/en/), where I worked as adjunct faculty. I also worked for two years at [CIGIDEN](https://www.cigiden.cl/en/) as a researcher. 
