@@ -1,5 +1,5 @@
 ---
-title: "CICS110: Foundations of Programming in Python"
+title: "CICS 110: Foundations of Programming in Python"
 collection: teaching
 type: "Undergraduate Course, Instructor"
 venue: "UMass Amherst, Computer Science Department"
