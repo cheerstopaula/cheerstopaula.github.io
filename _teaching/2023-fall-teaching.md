@@ -6,3 +6,5 @@ venue: "UMass Amherst, Computer Science Department"
 date: 2024-02-01
 location: "Amherst, MA"
 ---
+
+Fall 2023
