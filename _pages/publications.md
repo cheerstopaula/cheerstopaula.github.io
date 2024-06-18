@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Workshops and Poster Presentations"
 permalink: /publications/
 author_profile: true
 ---
-
-Workshops and Poster Presentations
-=== 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
