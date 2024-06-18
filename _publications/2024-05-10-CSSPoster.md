@@ -7,5 +7,5 @@ venue: 'CSS Student Poster Session'
 ---
 [Download Link](https://cheerstopaula.github.io/files/CSS_Poster.pdf)
 
-[Poster Session Link]([https://ec4academia.github.io](https://www.cssi.umass.edu/events/fri-05102024-0900/css-student-poster-session)
+[Poster Session Link](https://www.cssi.umass.edu/events/fri-05102024-0900/css-student-poster-session)
 
