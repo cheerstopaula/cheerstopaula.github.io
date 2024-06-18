@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Workshops and Poster Presentations"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ Previous Publications
 === 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my previous work on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my previous work on Tsunami Forecasting on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
