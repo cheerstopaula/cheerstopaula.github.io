@@ -12,7 +12,7 @@ title                    : "Paula Navarrete"
 title_separator          : "-"
 name                     : &name "Paula Navarrete Díaz"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cheerstopaula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cheerstopaula/cheerstopaula.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Paula Navarrete Díaz"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Student at UMass Amherst"
   location         : "Amherst, MA"
   # employer         : "Red Brick University"
