@@ -12,5 +12,5 @@ In large universities, the task of assigning classes to thousands of students wh
 
 Links:
 
-[Paper](https://cheerstopaula.github.io/files/EfficientCourseAllocation.pdf), [workshop](https://ec4academia.github.io)
+[Paper](https://cheerstopaula.github.io/files/EfficientCourseAllocation.pdf), [Poster](https://cheerstopaula.github.io/files/ECPoster.pdf) [workshop](https://ec4academia.github.io)
 
