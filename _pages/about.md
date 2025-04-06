@@ -13,4 +13,4 @@ Prior to joining UMass, I received my BS and MS in Mathematical Engineering at t
 
 More recently, I was a Summer 2024 [Data Science for the Common Good](https://ds.cs.umass.edu/programs/ds4cg/ds4cg-team) reserch fellow, at the UMass Amherst Center for Data Science.
 
-As of Spring 2025, I am visiting associate professor [Ayumi Igarashi]{https://sites.google.com/site/eigarashayumi/home} at the Graduate School of Information Science and Technology at the University of Tokyo.
+As of Spring 2025, I am visiting associate professor [Ayumi Igarashi](https://sites.google.com/site/eigarashayumi/home) at the Graduate School of Information Science and Technology at the University of Tokyo.
