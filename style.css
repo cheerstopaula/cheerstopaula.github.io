@@ -338,14 +338,7 @@ body main p sub {
 
 /* Dot */
 .timeline-item::before {
-  content: "";
-  position: absolute;
-  left: -1.1rem;
   top: 0.6rem;
-  width: 10px;
-  height: 10px;
-  background-color: #333;
-  border-radius: 50%;
 }
 
 /* Date */
