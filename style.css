@@ -315,3 +315,43 @@ body main p sub {
     columns: 1 !important
   }
 }
+
+
+/* Timeline container */
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  border-left: 2px solid #ccc;
+}
+
+/* Each entry */
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+}
+
+/* Dot */
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.1rem;
+  top: 0.3rem;
+  width: 10px;
+  height: 10px;
+  background-color: #333;
+  border-radius: 50%;
+}
+
+/* Date */
+.timeline-item .date {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+/* Title */
+.timeline-item h3 {
+  margin: 0.2rem 0;
+  font-size: 1rem;
+}
