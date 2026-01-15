@@ -331,7 +331,7 @@ body main p sub {
   padding-left: 1rem;
 
   display: grid;
-  grid-template-columns: 1fr 240px;
+  grid-template-columns: minmax(420px, 1fr) 240px;
   column-gap: 2rem;
 }
 
