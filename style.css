@@ -359,7 +359,7 @@ body main p sub {
 }
 
 .timeline-item img {
-  width: 240px;
+  width: 120px;
   height: auto;
   border-radius: 6px;
   object-fit: cover;
