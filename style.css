@@ -368,20 +368,12 @@ body main p sub {
   border-radius: 6px;
   object-fit: cover;
 }
-
 @media (max-width: 768px) {
 
-  /* Allow logo container to grow */
-  body header a#logo {
-    width: auto;
-    max-width: 250px;
-  }
-
-  /* Scale logo nicely */
+  /* Logo: scale nicely on mobile */
   body header a#logo img {
     width: 100%;
     max-width: 250px;
-    /* tweak to taste */
     height: auto;
   }
 
@@ -396,18 +388,19 @@ body main p sub {
     row-gap: 1rem;
   }
 
-  /* Make image large but contained */
+  /* Timeline images: large but contained */
   .timeline-item img {
     width: 100%;
     max-width: 360px;
+    height: auto;
   }
 
-  /* Allow text to use full width */
+  /* Allow timeline text to use full width */
   .timeline-content {
     max-width: none;
   }
 
-  /* Slightly smaller headings */
+  /* Typography adjustments */
   body main>h1 {
     font-size: 32px;
   }
@@ -421,16 +414,11 @@ body main p sub {
     line-height: 24px;
   }
 
-  /* Make images responsive on mobile */
-  body main img {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-  }
-
-  /* Optional: slightly smaller than full width */
+  /* About page images: contained & centered */
   body.about main img {
-    max-width: 95%;
+    width: auto;
+    max-width: 70%;
+    height: auto;
     margin: 15px auto;
     display: block;
   }
