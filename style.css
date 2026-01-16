@@ -370,6 +370,9 @@ body main p sub {
 }
 
 @media (max-width: 768px) {
+  body {
+    background: red !important;
+  }
 
   /* Logo: scale nicely on mobile */
   body header a#logo {
