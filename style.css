@@ -371,7 +371,7 @@ body main p sub {
 
 @media (max-width: 768px) {
   body {
-    background: #FAFAFA;;
+    background: #FAFAFA;
   }
 
   /* Logo: scale nicely on mobile */
