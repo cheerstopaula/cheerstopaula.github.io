@@ -374,13 +374,13 @@ body main p sub {
   /* Allow logo container to grow */
   body header a#logo {
     width: auto;
-    max-width: 300px;
+    max-width: 250px;
   }
 
   /* Scale logo nicely */
   body header a#logo img {
     width: 100%;
-    max-width: 260px;
+    max-width: 250px;
     /* tweak to taste */
     height: auto;
   }
@@ -430,7 +430,7 @@ body main p sub {
 
   /* Optional: slightly smaller than full width */
   body.about main img {
-    max-width: 80%;
+    max-width: 95%;
     margin: 15px auto;
     display: block;
   }
