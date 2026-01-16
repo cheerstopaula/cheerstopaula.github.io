@@ -371,17 +371,17 @@ body main p sub {
 
 @media (max-width: 768px) {
   body {
-    background: red !important;
+    background: #FAFAFA;;
   }
 
   /* Logo: scale nicely on mobile */
   body header a#logo {
-    width: 150px;
+    width: 180px;
   }
 
   /* Scale logo nicely */
   body header a#logo img {
-    width: 150px;
+    width: 180px;
     height: auto;
   }
 
