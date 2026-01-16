@@ -373,12 +373,12 @@ body main p sub {
 
   /* Logo: scale nicely on mobile */
   body header a#logo {
-    width: 200px;
+    width: 150px;
   }
 
   /* Scale logo nicely */
   body header a#logo img {
-    width: 200px;
+    width: 150px;
     height: auto;
   }
 
