@@ -423,8 +423,9 @@ body main p sub {
   /* About page images: contained & centered */
   body.about main img {
     width: auto;
-    max-width: 100%;
+    max-width: 99%;
     height: auto;
+    margin: 5px auto;
     display: block;
   }
 }
