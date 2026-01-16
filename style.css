@@ -373,8 +373,7 @@ body main p sub {
 
   /* Logo: scale nicely on mobile */
   body header a#logo img {
-    width: 100%;
-    max-width: 240px;
+    width: 240px;
     height: auto;
   }
 
