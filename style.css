@@ -365,3 +365,47 @@ body main p sub {
   object-fit: cover;
 }
 
+@media (max-width: 768px) {
+
+  /* Fix giant logo */
+  body header a#logo img {
+    width: 100%;
+    max-width: 180px;
+  }
+
+  /* Reduce page padding */
+  body {
+    padding: 20px;
+  }
+
+  /* Timeline: stack image above text */
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+  }
+
+  /* Make image large but contained */
+  .timeline-item img {
+    width: 100%;
+    max-width: 360px;
+  }
+
+  /* Allow text to use full width */
+  .timeline-content {
+    max-width: none;
+  }
+
+  /* Slightly smaller headings */
+  body main > h1 {
+    font-size: 32px;
+  }
+
+  body main > h2 {
+    font-size: 24px;
+  }
+
+  body main > p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
