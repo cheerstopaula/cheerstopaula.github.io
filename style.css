@@ -335,7 +335,7 @@ body main p sub {
   padding-left: 1rem;
 
   display: grid;
-  grid-template-columns: 200px 900px;
+  grid-template-columns: 200px 450px;
   column-gap: 2rem;
 }
 
