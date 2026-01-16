@@ -371,10 +371,18 @@ body main p sub {
 
 @media (max-width: 768px) {
 
-  /* Fix giant logo */
+  /* Allow logo container to grow */
+  body header a#logo {
+    width: auto;
+    max-width: 300px;
+  }
+
+  /* Scale logo nicely */
   body header a#logo img {
     width: 100%;
-    max-width: 300px;
+    max-width: 260px;
+    /* tweak to taste */
+    height: auto;
   }
 
   /* Reduce page padding */
