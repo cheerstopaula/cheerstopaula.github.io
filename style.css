@@ -373,16 +373,15 @@ body main p sub {
 
   /* Logo: scale nicely on mobile */
   body header a#logo {
-    width: auto;
-    max-width: 200px;
+    width: 200px;
   }
 
   /* Scale logo nicely */
   body header a#logo img {
-    width: 100%;
-    max-width: 200px; /* tweak to taste */
+    width: 200px;
     height: auto;
   }
+
   /* Reduce page padding */
   body {
     padding: 20px;
