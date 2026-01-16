@@ -368,12 +368,13 @@ body main p sub {
   border-radius: 6px;
   object-fit: cover;
 }
+
 @media (max-width: 768px) {
 
   /* Logo: scale nicely on mobile */
   body header a#logo img {
     width: 100%;
-    max-width: 250px;
+    max-width: 220px;
     height: auto;
   }
 
@@ -417,7 +418,7 @@ body main p sub {
   /* About page images: contained & centered */
   body.about main img {
     width: auto;
-    max-width: 70%;
+    max-width: 90%;
     height: auto;
     margin: 15px auto;
     display: block;
