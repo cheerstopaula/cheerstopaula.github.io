@@ -374,13 +374,13 @@ body main p sub {
   /* Logo: scale nicely on mobile */
   body header a#logo {
     width: auto;
-    max-width: 250px;
+    max-width: 200px;
   }
 
   /* Scale logo nicely */
   body header a#logo img {
     width: 100%;
-    max-width: 250px; /* tweak to taste */
+    max-width: 200px; /* tweak to taste */
     height: auto;
   }
   /* Reduce page padding */
@@ -423,7 +423,7 @@ body main p sub {
   /* About page images: contained & centered */
   body.about main img {
     width: auto;
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
     display: block;
   }
